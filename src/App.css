@@ -1,0 +1,29 @@
+
+
+.topdisplay{
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topdisplay input{
+    padding: 10px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+}
+
+.topdisplay button{
+    margin-left: 10px;
+    padding: 10px;
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,30 @@
+p{
+    color: white;
+    font-size: 20px;
+}
+
+.coininfo{
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 500px;
+    margin: 20px auto;
+    box-shadow: 1px 2px 3px 3px rgb(228, 218, 218);
+    align-items: center;
+    justify-content: center;
+    border-radius: 5%;
+}
+
+.graphdiv{
+    background-color: white;
+    height: 600px;
+    width: 75%;
+    box-shadow: 1px 2px 2px 2px rgb(228, 218, 218);
+    margin: 10px auto;
+    margin-bottom: 40px;
+    border-radius: 5px;
+}
+
+.coininfo p{
+    margin: 5px;
+}
